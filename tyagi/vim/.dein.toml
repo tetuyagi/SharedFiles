@@ -1,0 +1,76 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'Shougo/vimproc.vim'
+build = 'make'
+
+[[plugins]]
+repo    = 'Shougo/neocomplete.vim'
+depends = ['Shougo/neoinclude.vim', 'Shougo/context_filetype.vim']
+insert  = 1
+
+[[plugins]]
+repo      = 'justmao945/vim-clang'
+filetypes =  ['c', 'cpp']
+
+[[plugins]]
+repo = 'Shougo/neomru.vim'
+
+[[plugins]]
+repo = 'Shougo/neosnippet.vim'
+
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+
+[[plugins]]
+repo = 'Shougo/neoinclude.vim'
+
+[[plugins]]
+repo = 'AndrewRadev/splitjoin.vim'
+
+[[plugins]]
+repo = 'stephpy/vim-php-cs-fixer'
+
+[[plugins]]
+repo = 'davidhalter/jedi-vim'
+
+
+[[plugins]]
+repo = 'myhere/vim-nodejs-complete'
+
+[[plugins]]
+repo = 'scrooloose/syntastic'
+
+
+[[plugins]]
+repo = 'jelera/vim-javascript-syntax'
+
+[[plugins]]
+repo = 'othree/html5.vim'
+
+[[plugins]]
+repo = 'hokaccha/vim-html5validator'
+
+[[plugins]]
+repo = 'jcoglan/sylvester'
+
+
+[[plugins]]
+repo = 'thinca/vim-ref'
+
+[[plugins]]
+repo = 'tokuhirom/jsref'
+
+[[plugins]]
+repo = 'mustardamus/jqapi'
+
+[[plugins]]
+repo = 'modess/vim-phpcolors'
+
+
+[[plugins]]
+repo = 'vim-scripts/PDV--phpDocumentor-for-Vim'
+
+[[plugins]]
+repo = 'violetyk/neocomplete-php.vim'
